@@ -61,7 +61,7 @@ class Reservation {
 };
 
 void cancelReservation(Reservation&, const Ticket&){
-    cout<<"This is madharchod question";
+    cout<<"Go through this question";
 };
 
 int main() {
